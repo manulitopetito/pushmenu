@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js",
+        "url": "classie.js"
+    },
+    "designerId": "a2b7d675-02a1-4588-8e10-45b1e8450f33"
+}

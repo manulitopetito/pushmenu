@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js1",
+        "url": "modernizr.custom.js"
+    },
+    "designerId": "ca9e3b11-9169-4746-8166-cf58665591ad"
+}

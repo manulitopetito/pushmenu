@@ -1,0 +1,13 @@
+{
+    "type": "cssresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "css2",
+        "url": "normalize.css"
+    },
+    "designerId": "eeee8dec-35bd-456e-a9ca-5d5dea9f42eb"
+}

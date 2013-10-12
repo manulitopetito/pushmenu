@@ -1,0 +1,13 @@
+{
+    "type": "cssresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "css3",
+        "url": "icons.css"
+    },
+    "designerId": "0f2366a8-288c-43a6-97fd-6360c5827bc2"
+}

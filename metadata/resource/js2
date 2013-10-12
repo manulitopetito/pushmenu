@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js2",
+        "url": "mlpushmenu.js"
+    },
+    "designerId": "b9df1bb8-6663-4eb3-83f8-7e8761fc1bf0"
+}

@@ -1,0 +1,46 @@
+{
+    "type": "Ext.Container",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyContainer",
+        "designer|initialView": true,
+        "layout": "fit"
+    },
+    "designerId": "4b69c5ba-bba6-4bc5-b13d-d435059408dc",
+    "cn": [
+        {
+            "type": "Ext.TitleBar",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "top"
+            },
+            "designerId": "b6a0bed7-d374-41f1-8398-d52e207740bc"
+        },
+        {
+            "type": "Ext.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "bottom",
+                "height": "100%",
+                "maxWidth": null,
+                "minWidth": null,
+                "style": "background-color: lightblue;",
+                "ui": "",
+                "layout": null
+            },
+            "designerId": "371685d0-ab15-4bd2-b273-789965fa655b"
+        }
+    ]
+}
